@@ -1,2 +1,2 @@
 # Love-Calculator
-Love Calculator with html css and javascript
+Love Calculator with HTML & CSS
